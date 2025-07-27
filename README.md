@@ -1,2 +1,4 @@
 # autentic-repo
-repo para dev
+
+repo para dev e aprendizado
+
